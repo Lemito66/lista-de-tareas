@@ -17,7 +17,7 @@
 }
 
 /* Boton Agregar Tarea */
-tarea-boton{
+.tarea-boton{
     padding: 16px;
     font-size: 18px;
     font-family: Roboto, sans-serif;
